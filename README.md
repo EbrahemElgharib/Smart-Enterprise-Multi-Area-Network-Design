@@ -40,6 +40,7 @@ The topology is divided into multiple colored zones representing different depar
 
 🗺️ Network Topology
 
+<img width="1636" height="731" alt="image" src="https://github.com/user-attachments/assets/1813192b-73ab-4f7c-a1de-3dbe2cf8aa1f" />
 
 
 
